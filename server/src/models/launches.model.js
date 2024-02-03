@@ -8,7 +8,7 @@ const launch = {
   rocket: "Explore IS1",
   lauchDate: new Date("Deceber 27,2030"),
   target: "Kepla-442 b ",
-  customer: ["Tap|Space", "NASA"],
+  customers: ["Tap|Space", "NASA"],
   upcoming: true,
   success: true,
 };
